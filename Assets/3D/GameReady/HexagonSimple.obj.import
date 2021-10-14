@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/HexagonSimple.obj-96f870bbbb63bd736e2008dfbd084c14.mesh"
+
+[deps]
+
+files=[ "res://.import/HexagonSimple.obj-96f870bbbb63bd736e2008dfbd084c14.mesh" ]
+
+source_file="res://Assets/3D/GameReady/HexagonSimple.obj"
+dest_files=[ "res://.import/HexagonSimple.obj-96f870bbbb63bd736e2008dfbd084c14.mesh", "res://.import/HexagonSimple.obj-96f870bbbb63bd736e2008dfbd084c14.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

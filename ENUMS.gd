@@ -1,0 +1,7 @@
+extends Node
+
+class_name ENUMS
+
+enum TILE_TYPE {EMPTY, BEVELED , SIMPLE}
+
+enum STRACTURE_TYPE {EMPTY, CASTLE}
